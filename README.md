@@ -15,7 +15,7 @@
 
  🦠 I am interested in AI, Chemoinformatics, and Bioinformatics and how we can leverage them for a better world
 
-<h2> Sicentific Articles <img src = "![image](https://github.com/reginapikalyova/reginapikalyova/assets/136573051/74cca246-d0fd-4b8f-9fb7-c9e52a91c485)" width = 32px> </h2>
+<h2> Sicentific Articles <img src = "https://github.com/reginapikalyova/reginapikalyova/assets/136573051/74cca246-d0fd-4b8f-9fb7-c9e52a91c485" width = 32px> </h2>
 
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
