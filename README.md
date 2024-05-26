@@ -3,7 +3,7 @@
 </p>
 <div size='20px'> Hi! My name is Regina. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
-<h2> About Me </h2>
+<h2> About Me 👩🏼‍💻</h2>
 
  💻 I am currently finishing my PhD in chemoinformatics
  
