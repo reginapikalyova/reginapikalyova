@@ -1,4 +1,4 @@
-![image](https://github.com/reginapikalyova/reginapikalyova/assets/136573051/74cca246-d0fd-4b8f-9fb7-c9e52a91c485) <h1> Hello! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<h1> Hello! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <p align='center'>
 </p>
 <div size='20px'> Hi! My name is Regina. Thank You for taking the time to view my GitHub Profile :smile: 
@@ -15,10 +15,11 @@
 
  🦠 I am interested in AI, Chemoinformatics, and Bioinformatics and how we can leverage them for a better world
 
+<h2> Sicentific Articles <img src = "![image](https://github.com/reginapikalyova/reginapikalyova/assets/136573051/74cca246-d0fd-4b8f-9fb7-c9e52a91c485)" width = 32px> </h2>
+
+
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
  
-<h2> Sicentific Articles <img src = "https://www.flaticon.com/free-icon/science_730771?related_id=791187&origin=search" width = 32px> </h2>
-
 - ## Programming languages : <br />
     [![Python](http://img.shields.io/badge/-Python-eee?style=flat-square&logo=python&logoColor#F7BD2F)](https://dinhanhthi.com/notes#python)
 - ## Machine Learning / Deep Learning frameworks : <br />
