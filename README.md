@@ -17,7 +17,9 @@
 
 <h2> Sicentific Articles <img src = "https://github.com/reginapikalyova/reginapikalyova/assets/136573051/74cca246-d0fd-4b8f-9fb7-c9e52a91c485" width = 32px> </h2>
  - https://pubs.acs.org/doi/abs/10.1021/acs.jcim.3c00719
+ 
  - https://pubs.acs.org/doi/10.1021/acs.jcim.3c00520
+   
  - https://onlinelibrary.wiley.com/doi/full/10.1002/minf.202100289
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
