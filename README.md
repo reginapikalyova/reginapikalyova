@@ -1,9 +1,10 @@
-h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+h1> Hello  >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <p align='center'>
 </p>
 <div size='20px'> Hi! My name is Regina. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 <h2> About Me </h2>
+
  💻 I am currently finishing my PhD in chemoinformatics
  
  🧬 I am a pioneer in DNA-Encoded Library (DEL) Chemoinformatics
