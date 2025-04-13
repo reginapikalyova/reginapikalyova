@@ -5,7 +5,7 @@
 </div>
 <h2> About Me 👩🏼‍💻</h2>
 
- 💻 I am currently finishing my PhD in chemoinformatics
+ 💻 I have a PhD in chemoinformatics :)
  
  🧬 I am a pioneer in DNA-Encoded Library (DEL) Chemoinformatics
  
